@@ -1,6 +1,6 @@
-# Juma.c.otieno
+# JUMA CAVIN OTIENO
 Personal Portfolio 🔥
- <h1>Juma C. Otieno</h1>
+ <h1>Juma Cavin Otieno</h1>
 https://cavinjuma.github.io/jumaotieno.github.io/
 
 ⭐ <h3>Star me on GitHub — it helps!</h3>
