@@ -1,5 +1,5 @@
-# JUMA CAVIN OTIENO
-Personal Portfolio 🔥
+# Personal Portfolio 🔥
+
  <h1>Juma Cavin Otieno</h1>
 https://cavinjuma.github.io/jumaotieno.github.io/
 
